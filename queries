@@ -1,4 +1,4 @@
-SELECT * FROM swiggy.swiggy;
+SELECT * FROM swiggy.swiggy; 
 USE SWIGGY;
 SHOW TABLES;
 select distinct price from swiggy;
